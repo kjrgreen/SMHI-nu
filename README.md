@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The purpose of this project is to demonstrate my abilities to create a responsive website serving a real-life purpose. This website is intended to display data from SMHI in an attractive mobile- and screen-reader friendly way.
+
 ## Available Scripts
 
 In the project directory, you can run:
