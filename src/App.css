@@ -36,3 +36,54 @@
     transform: rotate(360deg);
   }
 }
+
+#root {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.h1div {
+  flex-basis: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.weatherComponent{
+
+  display: flex;
+  justify-content: center;
+  margin-bottom: 9pt;
+  margin-left: 18pt;
+  margin-right: 18pt;
+}
+
+.weatherComponent > div {
+  border-style: solid;
+  border-radius: 9pt;
+  border-width: 2px;
+  border-color: #282c34;
+  min-width: 144pt;
+  width: available;
+  background-color: #f3f3f3;
+  padding: 1pt 1pt 1pt 1pt;
+}
+
+.weatherComponent > div > div {
+  display: flex;
+  align-items: center;
+}
+
+p, h2 {
+  margin: 9pt auto 9pt auto;
+}
+
+.marginAuto {
+  margin: auto;
+}
+
+p {
+  font-size: large;
+}
