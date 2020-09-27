@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SMHI-nu/static/css/main.7999bbbb.chunk.css",
+    "main.js": "/SMHI-nu/static/js/main.cf0d3998.chunk.js",
+    "main.js.map": "/SMHI-nu/static/js/main.cf0d3998.chunk.js.map",
+    "runtime-main.js": "/SMHI-nu/static/js/runtime-main.f9c7f2eb.js",
+    "runtime-main.js.map": "/SMHI-nu/static/js/runtime-main.f9c7f2eb.js.map",
+    "static/js/2.b54a87fe.chunk.js": "/SMHI-nu/static/js/2.b54a87fe.chunk.js",
+    "static/js/2.b54a87fe.chunk.js.map": "/SMHI-nu/static/js/2.b54a87fe.chunk.js.map",
+    "index.html": "/SMHI-nu/index.html",
+    "precache-manifest.92cf5608a24fc416452e22b1cef0625d.js": "/SMHI-nu/precache-manifest.92cf5608a24fc416452e22b1cef0625d.js",
+    "service-worker.js": "/SMHI-nu/service-worker.js",
+    "static/css/main.7999bbbb.chunk.css.map": "/SMHI-nu/static/css/main.7999bbbb.chunk.css.map",
+    "static/js/2.b54a87fe.chunk.js.LICENSE.txt": "/SMHI-nu/static/js/2.b54a87fe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SMHI-nu/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9c7f2eb.js",
+    "static/js/2.b54a87fe.chunk.js",
+    "static/css/main.7999bbbb.chunk.css",
+    "static/js/main.cf0d3998.chunk.js"
+  ]
+}
